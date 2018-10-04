@@ -1,0 +1,152 @@
+#avatar
+{
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    padding: 2px;
+    position : absolute;
+    background : white;
+}
+
+#titre
+{
+    position : absolute;
+    border-width: 4px;
+    border-style:solid;
+    border-color:black;
+    padding: 2px;
+    left : 250px;
+    background : white;
+}
+
+#SousTitre
+{
+    position : absolute;
+    border-width: 4px;
+    border-style:solid;
+    border-color:black;
+    padding: 2px;
+    left : 250px;
+    top : 130px;
+    background : white;
+}
+
+body
+{
+    background : url("http://www.wallpapers-mania.org/images/Deco/fond-page-web-apple.jpg");
+}
+
+#Description
+{
+    position : absolute;
+    border-width: 4px;
+    border-style:solid;
+    border-color:black;
+    padding: 2px;
+    left : 10px;
+    top : 250px;
+    background : white;
+}
+
+.Police
+{
+    font-size : 20px;
+}
+
+h2
+{
+    text-shadow: 0px 0px 10px deepskyblue;
+}
+
+#theme1
+
+{
+    position : absolute;
+    border-width: 4px;
+    border-style:solid;
+    border-color:black;
+    padding: 2px;
+    left : 10px;
+    top : 450px;
+    background : white;
+}
+
+.Police2
+{
+    font-size: 20px;
+}
+
+h3
+{
+    text-shadow: 0px 0px 10px red;
+}
+
+#theme2
+
+{
+    position : absolute;
+    border-width: 4px;
+    border-style:solid;
+    border-color:black;
+    padding: 2px;
+    left : 270px;
+    top : 450px;
+    background : white;
+}
+
+.Police3
+{
+    font-size: 20px;
+}
+
+h4
+{
+    text-shadow: 0px 0px 10px darkgreen;
+}
+
+#theme3
+
+{
+    position : absolute;
+    border-width: 4px;
+    border-style:solid;
+    border-color:black;
+    padding: 2px;
+    left : 500px;
+    top : 450px;
+    background : white;
+}
+
+.Police4
+{
+    font-size: 20px;
+}
+
+h5
+{
+    text-shadow: 0px 0px 10px purple;
+}
+
+#Réseau
+
+{
+    position : absolute;
+    border-width: 4px;
+    border-style:solid;
+    border-color:black;
+    padding: 2px;
+    left : 10px;
+    top : 950px;
+    background : white;
+}
+
+.Police5
+{
+    font-size: 20px;
+}
+
+h6
+{
+    text-shadow: 0px 0px 10px purple;
+    font-size: 15px;
+}
