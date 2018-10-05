@@ -17,6 +17,8 @@
     padding: 2px;
     left : 250px;
     background : white;
+    color : black;
+    text-decoration: underline red;
 }
 
 #SousTitre
@@ -29,11 +31,18 @@
     left : 250px;
     top : 130px;
     background : white;
+    color : black;
+    text-decoration: underline red;
 }
 
 body
 {
     background : url("http://www.wallpapers-mania.org/images/Deco/fond-page-web-apple.jpg");
+    font-family : "Times New Roman", Times, sans-serif;
+    color : orange;
+
+
+
 }
 
 #Description
@@ -56,6 +65,8 @@ body
 h2
 {
     text-shadow: 0px 0px 10px deepskyblue;
+    color : black;
+    line-height: normal;
 }
 
 #theme1
@@ -79,6 +90,8 @@ h2
 h3
 {
     text-shadow: 0px 0px 10px red;
+    color : black;
+    line-height: normal;
 }
 
 #theme2
@@ -102,6 +115,8 @@ h3
 h4
 {
     text-shadow: 0px 0px 10px darkgreen;
+    color : black;
+    line-height: normal;
 }
 
 #theme3
@@ -125,6 +140,8 @@ h4
 h5
 {
     text-shadow: 0px 0px 10px purple;
+    color : black;
+    line-height: normal;
 }
 
 #Réseau
@@ -149,4 +166,6 @@ h6
 {
     text-shadow: 0px 0px 10px purple;
     font-size: 15px;
+    color : black;
+    line-height: normal;
 }
